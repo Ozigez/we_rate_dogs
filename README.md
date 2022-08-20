@@ -5,8 +5,10 @@ In the Gathering Phase of the wrangling process, the data was gotten from 3 diff
 
 In the Assessing Phase and clceaning phases, each data set was visually and programmatically assessed for both quality and tidiness issues which were detected across the datasets, with copies of dataset created and cleaned:
 
-The following insights were investigated and avisualization was made to corrobarate what dog breed was the most liked
+The following insights were investigated and a visualization was made to corrobarate what dog breed was the most liked: 
 
-What dog breed is the most liked
-what dog stage is the most liked
-What dog stage is the most common
+ 1. What dog breed is the most liked
+ 2. what dog stage is the most liked
+ 3. What dog stage is the most common
+
+
